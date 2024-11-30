@@ -1,2 +1,2 @@
 # scheme-playground
-Practice and explore Scheme programming with code snippets, projects, and notes.
+Practice and explore Racjet programming with code snippets, projects, and notes.
